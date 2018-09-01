@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Servio Places</string>
+    
+    <string name="nm">Имя места:</string>
+    <string name="kod">Код:</string>
+    <string name="top">Сверху:</string>
+    <string name="left">Слева:</string>
+    <string name="width">Ширина:</string>
+    <string name="height">Высота:</string>
+
+    <string name="num">Номер:</string>
+    <string name="sum">Сума:</string>
+    <string name="open">Открыл:</string>
+</resources>
